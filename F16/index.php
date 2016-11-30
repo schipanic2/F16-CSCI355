@@ -2,7 +2,7 @@
 <html>
   <head>
   	<meta charset="utf-8">
-    <title>Subscribe</title>
+    <title>DB</title>
     <link rel="stylesheet" type="text/css"
       href="http://yegor256.github.io/tacit/tacit.min.css"/>
   </head>
